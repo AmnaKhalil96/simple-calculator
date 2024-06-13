@@ -10,6 +10,7 @@
   "author": "\"Amna Khalil\"",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^5.3.0",
     "inquirer": "^9.2.17"
   },
   "devDependencies": {
