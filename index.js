@@ -52,9 +52,5 @@ async function main() {
     }
     console.log(chalk.yellow("__________________________________________________________________________"));
     console.log(chalk.greenBright("\n\tThank you for using the SAM Calculator!\t"));
-    // Recursively call the function to keep the calculator running
-    //  await runCalculator();
-    // // Call the function to start the calculator
-    //  runCalculator()};
 }
 main();
